@@ -24,6 +24,7 @@ body {
     max-width: 950px;
     width: 100%;
     margin: 0 auto;
+    
 }
 
 .wrap {
@@ -99,11 +100,12 @@ body {
 
 .tt{
     padding-top: 99px;
+    padding-bottom: 50px;
 }
 
 .ii{
     padding-top: 30px;
-    margin-bottom: 120px;
+    padding-bottom: 30px;
     
 }
 
@@ -126,10 +128,10 @@ body {
     text-align: center;
     background-color: black;
     width: 130px;
-    height: 20px;
+    height: 25px;
     color: #f5ebeb;
     margin: 0 auto;
-    border: 0 10 0 10;
+    border-radius: 25px;
 }
 
 .tags{
@@ -143,4 +145,9 @@ body {
 .bb{
     text-align: center;
     padding-top: 45px;
+}
+
+
+.tt{
+padding-bottom: 50px;
 }
